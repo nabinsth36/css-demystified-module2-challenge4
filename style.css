@@ -259,7 +259,7 @@ form {
 
   .hero {
     display: block;
-    background-image: url(/assets/image.jpg);
+    background-image: url(assets/image.jpg);
     background-position: center center;
     background-size: cover;
     /* max-width: 55rem; */
